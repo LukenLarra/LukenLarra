@@ -6,19 +6,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LukenLarra.LukenLarra&left_text=Profile%20Views:"  />
-</div>
-
-###
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">📚 I am currently studying 3rd year of Computer Engineering, in the software development branch, at the University of the Basque Country (UPV/EHU).</p>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LukenLarra.LukenLarra&left_text=Profile%20Views:"  />
+</div>
 
 ###
 
@@ -43,13 +41,23 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dot-net logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"  />
 </div>
 
 ###
@@ -59,11 +67,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/luken-larra%c3%b1aga-villar-a297912ba/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   <a href="lknluken@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=lknluken@gmail.com&logo=gmail&label=Gmail&color=grey&logoColor=white&labelColor=D14836&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -74,3 +80,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LukenLarra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LukenLarra&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
+
+###
