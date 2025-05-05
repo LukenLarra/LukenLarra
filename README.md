@@ -41,8 +41,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=django" height="35" alt="django logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dot-net logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
